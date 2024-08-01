@@ -1,0 +1,3 @@
+ Developed a slot machine simulation game in Python, demonstrating proficiency in algorithm design, randomization, and user interaction. 
+ The project includes a deposit function for players to add funds, a flexible betting system allowing players to choose the number of lines and the amount to bet per line, and validation to ensure bets are within the allowed range. 
+ It features a slot machine spin mechanism that generates random results based on predefined symbol frequencies and a winnings calculation function that checks for winning lines and computes winnings based on the symbols and bet amount.
